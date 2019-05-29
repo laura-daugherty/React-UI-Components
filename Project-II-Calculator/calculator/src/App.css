@@ -6,5 +6,12 @@
 .buttons {
     display: flex;
     width: 100%;
-    justify-content: space-evenly;
-} 
+}
+
+.numbutts {
+    width: 100%;
+}
+
+.white {
+    background-color: purple;
+}

@@ -3,20 +3,18 @@
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap-reverse;
-    max-width: 75%;
 }
 
 .num {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 25%;
+    width: 33%;
     height: 200px;
 }
 
 .OperatorButton {
-    width: 25%;
-    height: 200px;
+    width: 33%;
     display: flex;
     flex-flow: column;
 }
@@ -26,7 +24,6 @@
     align-items: center;
     justify-content: center;
     height: 200px;
-    width: 200px;
 }
 
 .ActionButton {

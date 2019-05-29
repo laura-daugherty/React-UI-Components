@@ -11,7 +11,9 @@ const App = () => {
       <div className="buttons">
         <div className="numbutts">
           <ActionButton butt="Clear"/>
-          <NumberButton  />
+          <NumberButton  num="7" buttonstyle="white"/>
+          <NumberButton  num="8"  />
+          <NumberButton  num="9"  />
           <ActionButton  butt="0"/>
         </div>
       <OperatorButton  />
