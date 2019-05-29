@@ -4,9 +4,9 @@ import './Button.css';
 const ActionButton = props => {
     return (
         <div className={`ActionButton ${props.buttonStyle}`}>
-            <btn>
+            <div>
                 {props.char}
-            </btn>
+            </div>
         </div>
     )
 }
