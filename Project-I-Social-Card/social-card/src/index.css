@@ -1,5 +1,7 @@
 body {
-  margin: 0;
+  margin: 1rem;
   padding: 0.4rem;
   font-family: sans-serif;
+  display: flex;
+  justify-content: center;
 }
